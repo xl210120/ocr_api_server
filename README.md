@@ -39,7 +39,7 @@ python ocr_server.py --port 9898 --ocr --old --det
 ## docker运行方式(目测只能在Linux下部署)
 
 ```shell
-git clone https://github.com/sml2h3/ocr_api_server.git
+git clone https://github.com/xl210120/ocr_api_server.git
 # docker怎么安装？百度吧
 
 cd ocr_api_server
